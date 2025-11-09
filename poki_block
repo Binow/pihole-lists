@@ -1,0 +1,26 @@
+# Poki.com Blocklist for Pi-hole
+poki.com
+www.poki.com
+poki.io
+poki.gg
+poki.net
+poki.org
+poki.co
+poki.fun
+poki.xyz
+poki.me
+
+# Subdomains frequently used by Poki
+game-cdn.poki.com
+game-loader.poki.com
+analytics.poki.com
+telemetry.poki.com
+events.poki.com
+ads.poki.com
+adserver.poki.com
+assets.poki.com
+
+# Regex suggestions (Pi-hole requires separate regex entries—not valid in host lists)
+# (^|\.)poki\.
+# ^poki\..*
+# (\.|^)poki\.com$
