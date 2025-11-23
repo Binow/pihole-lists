@@ -1,0 +1,35 @@
+# MSN VIDEO / MEDIA STREAMING BLOCKLIST
+
+# Primary MSN streaming CDN endpoints
+prod-streaming-video-msn-com.akamaized.net
+*.akamaized.net
+*.msn.com.edgesuite.net
+
+# MSN autoplay video servers
+assets.msn.com
+static-entertainment-prod.msnbc.msn.com
+img-s-msn-com.akamaized.net
+t-msn-com.akamaized.net
+a-msn-com.akamaized.net
+
+# MSN News video and media
+video-msn-com.akamaized.net
+msn-video.net
+*.msn-video.net
+assets.msn.com
+nav.msn.com
+
+# Microsoft news / MSN shared media
+img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net
+a-msn-com.akamaized.net
+t-msn-com.akamaized.net
+
+# Background video feeds used by Edge/Windows/News
+arc.msn.com
+arc.msn.com.edgesuite.net
+prod-video-cms-rt-microsoft-com.akamaized.net
+
+# Ads / tracking used specifically by MSN
+g.msn.com
+c.msn.com
