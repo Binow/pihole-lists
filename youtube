@@ -1,3 +1,13 @@
+# youtube.com Blocklist for Pi-hole
 youtube.com
 www.youtube.com
 *.youtube.com
+
+# Subdomains frequently used by Youtube
+googlevideo.com
+ytimg.com
+i.google.com
+youtubei.googleapis.com
+
+# Regex suggestions (Pi-hole requires separate regex entries—not valid in host lists)
+(^|\.)youtube\.com$
