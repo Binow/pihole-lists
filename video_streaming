@@ -1,0 +1,52 @@
+# UNIVERSAL VIDEO/CDN BLOCKLIST (AGGRESSIVE)
+akamaihd.net
+*.akamaihd.net
+akamaized.net
+*.akamaized.net
+akamai.net
+*.akamai.net
+cloudfront.net
+*.cloudfront.net
+llnwd.net
+*.llnwd.net
+fastly.net
+*.fastly.net
+edgecastcdn.net
+*.edgecastcdn.net
+
+# YOUTUBE
+googlevideo.com
+*.googlevideo.com
+youtubei.googleapis.com
+i1.ytimg.com
+i2.ytimg.com
+i3.ytimg.com
+i4.ytimg.com
+yt3.ggpht.com
+
+# TIKTOK
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
+tiktokcdn-us.com
+tiktokcdn.com
+
+# FACEBOOK / INSTAGRAM VIDEO
+video.xx.fbcdn.net
+scontent.xx.fbcdn.net
+instagram.fxx.cdninstagram.com
+
+# TWITCH
+usher.ttvnw.net
+video-edge-*.hls.ttvnw.net
+
+# NETFLIX
+nflxvideo.net
+*.nflxvideo.net
+
+# AMAZON PRIME VIDEO
+amazonvideo.com
+*.amazontrust.com
+
+# HULU / DISNEY+
+hulu.map.fastly.net
+cdn.registerdisney.go.com
