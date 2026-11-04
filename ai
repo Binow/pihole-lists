@@ -1,0 +1,65 @@
+! Title: AI & Image Generation Blocklist
+! Description: Blocks AI chatbots and image generation sites. Parental-control DNS blocklist for kids' devices.
+! Homepage: https://github.com/mortis2600/ai-blocklist
+! License: MIT
+! Expires: 7 days
+! Last modified: 2026-10-11
+
+! --- AI chatbots & assistants ---
+||chatgpt.com^
+||chat.openai.com^
+||claude.ai^
+||gemini.google.com^
+||aistudio.google.com^
+||notebooklm.google.com^
+||copilot.microsoft.com^
+||perplexity.ai^
+||grok.com^
+||deepseek.com^
+||meta.ai^
+||kimi.ai^
+||moonshot.cn^
+||chat.qwen.ai^
+||z.ai^
+||mistral.ai^
+||cohere.com^
+||poe.com^
+||you.com^
+||duck.ai^
+||pi.ai^
+||groq.com^
+||phind.com^
+||blackbox.ai^
+||abacus.ai^
+||hailuo.ai^
+||v0.dev^
+||bolt.new^
+||lovable.dev^
+
+! --- AI companions & character chat ---
+||character.ai^
+||replika.com^
+||janitor.ai^
+||nomi.ai^
+||spicychat.ai^
+||crushon.ai^
+||kindroid.ai^
+
+! --- Homework-helper chatbots ---
+||gauthmath.com^
+||caktus.ai^
+||jenni.ai^
+||quillbot.com^
+
+! --- AI image generation ---
+||midjourney.com^
+||imagine.art^
+||nightcafe.studio^
+||stablediffusionweb.com^
+||dreamstudio.ai^
+||playground.ai^
+||leonardo.ai^
+||ideogram.ai^
+||firefly.adobe.com^
+||tensor.art^
+||civitai.com^
